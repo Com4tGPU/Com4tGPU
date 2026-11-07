@@ -1,7 +1,19 @@
-## Hello! 
+# Hello, I'm Com4t 👋
+![C++](https://shields.io)
+![C](https://shields.io)
+![Python](https://shields.io)
+![Build](https://shields.io)
+![Environment](https://shields.io)
 
-I am not that good at coding, So I won't be much active till then.
-I code in C++ (mainly C++20 and C++17) and python.
+I am an embedded systems, automation, and systems developer focusing on optimized cross-platform software. I specialize in leveraging compile-time logic and clean architectural structures to build lightweight, high-performance applications.
 
-Most of my projects will be in C++ however.
-Thank you for visiting my profile.
+## 🛠️ Tech Stack & Toolchains
+- **Languages:** C++ (C++17, C++20), Pure C (C89), Python
+- **Build Systems:** GNU Make / Custom Makefiles
+- **Environments:** Windows 11 (Git Bash CLI / Native Toolchains), Unix/Linux Subsystems
+
+## 📈 Active Core Projects
+- **[basic_finances](https://github.com):** A secure, cross-platform terminal-based management tool featuring modular `#ifdef` preprocessor environment handling and full version release pipelines.
+- **[snake](https://github.com):** A highly modular text-mode arcade matrix implementation featuring multi-contributor pull request pipelines and power-user Vim-key configurations.
+
+
