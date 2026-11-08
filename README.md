@@ -1,6 +1,5 @@
 # Hello, I'm Com4t 👋
 ![C++](https://shields.io)
-![C](https://shields.io)
 ![Python](https://shields.io)
 ![Build](https://shields.io)
 ![Environment](https://shields.io)
